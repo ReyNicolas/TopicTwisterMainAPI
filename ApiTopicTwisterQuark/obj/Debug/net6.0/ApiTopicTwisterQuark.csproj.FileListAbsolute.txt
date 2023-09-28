@@ -1,0 +1,306 @@
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\testhost.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\testhost.exe
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.exe
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.deps.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.pdb
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\NSubstitute.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\scopedcss\bundle\ApiTopicTwisterQuark.styles.css
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.CopyComplete
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.pdb
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\obj\Debug\net6.0\ref\ApiTopicTwisterQuark.dll
+C:\Users\danie\OneDrive\Escritorio\Practicas csharp\Practica aspnet\ApiTopicTwisterQuark\ApiTopicTwisterQuark\bin\Debug\net6.0\ref\ApiTopicTwisterQuark.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\testhost.exe
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\testhost.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\appsettings.Development.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\appsettings.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.exe
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.deps.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.runtimeconfig.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ref\ApiTopicTwisterQuark.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ApiTopicTwisterQuark.pdb
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Castle.Core.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Google.Protobuf.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Humanizer.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\MySql.Data.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\NSubstitute.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\nunit.framework.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.CodeDom.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.IO.Pipelines.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Text.Json.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.GlobalUsings.g.cs
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.AssemblyReference.cache
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.GeneratedMSBuildEditorConfig.editorconfig
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.AssemblyInfoInputs.cache
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.AssemblyInfo.cs
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.CoreCompileInputs.cache
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.MvcApplicationPartsAssemblyInfo.cs
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.MvcApplicationPartsAssemblyInfo.cache
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\staticwebassets.build.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\staticwebassets.development.json
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\scopedcss\bundle\ApiTopicTwisterQuark.styles.css
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.csproj.CopyComplete
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ref\ApiTopicTwisterQuark.dll
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.pdb
+H:\Developer\apitopictwisternet\ApiTopicTwisterQuark\obj\Debug\net6.0\ApiTopicTwisterQuark.genruntimeconfig.cache

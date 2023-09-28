@@ -1,0 +1,328 @@
+﻿++Solución "ApiTopicTwisterQuark" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:ApiTopicTwisterQuark.sln
+++ApiTopicTwisterQuark
+i:{00000000-0000-0000-0000-000000000000}:ApiTopicTwisterQuark
+++Connected Services 
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1555
+++Dependencias
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1554
+++Properties
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\
+++Controllers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\
+++BotController.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\botcontroller.cs
+++MatchController.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\matchcontroller.cs
+++PlayerController.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\playercontroller.cs
+++RoundController.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\roundcontroller.cs
+++TurnController.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\controllers\turncontroller.cs
+++Data
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\data\
+++TopicTwisterContext.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\data\topictwistercontext.cs
+++Entities
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\
+++DTOs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\
+++AnswerComparerDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\answercomparerdto.cs
+++AnswerDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\answerdto.cs
+++DataApplication.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\dataapplication.cs
+++ForGameNotificationDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\forgamenotificationdto.cs
+++LoginResultDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\loginresultdto.cs
+++MatchInfoDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\matchinfodto.cs
+++MatchResultDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\matchresultdto.cs
+++PlayerDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\playerdto.cs
+++PlayerNotificationDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\playernotificationdto.cs
+++PlayTurnDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\playturndto.cs
+++RematchNotificationToSendDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\rematchnotificationtosenddto.cs
+++RoundResultDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\roundresultdto.cs
+++StartTurnDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\startturndto.cs
+++TurnResultDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\turnresultdto.cs
+++WordAndResultDTO.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\wordandresultdto.cs
+++Economy
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\
+++Tests
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\
+++Answer.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\answer.cs
+++Category.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\category.cs
+++CategoryAndLetterGenerator.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\categoryandlettergenerator.cs
+++Command.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\command.meta
+++DTOs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos.meta
+++Entity.asmdef
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\entity.asmdef
+++Match.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\match.cs
+++Player.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\player.cs
+++Repositories.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\repositories.meta
+++Round.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\round.cs
+++Tests.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests.meta
+++Turn.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\turn.cs
+++Players
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\players\
+++INotificationService.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\players\inotificationservice.cs
+++IPlayerService.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\players\iplayerservice.cs
+++Repositories
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\
+++IAnswerRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\ianswerrepository.cs
+++ICategoriesRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\icategoriesrepository.cs
+++IDataApplicationContainer.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\idataapplicationcontainer.cs
+++ILettersRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\ilettersrepository.cs
+++IMatchRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\imatchrepository.cs
+++IPlayerRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\iplayerrepository.cs
+++IRoundRepositories.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\iroundrepositories.cs
+++ITurnRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\repositories\iturnrepository.cs
+++UseCases
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\
+++CheckTurnsToPlay.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\checkturnstoplay.cs.meta
+++CheckTurnToPlay.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\checkturntoplay.cs
+++CreateMatch.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\creatematch.cs
+++EndMatch.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endmatch.cs
+++EndRound.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endround.cs
+++EndTurn.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endturn.cs
+++FindNewRivalForPlayer.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\findnewrivalforplayer.cs
+++GetLogin.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\getlogin.cs
+++GetMatchesToPlay.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\getmatchestoplay.cs
+++GetMatchHistory.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\getmatchhistory.cs
+++GetPlayerStats.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\getplayerstats.cs
+++StartTurn.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\startturn.cs
+++UseCase.asmdef
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\usecase.asmdef
+++appsettings.json
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\appsettings.json
+++Program.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\program.cs
+++WeatherForecast.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1556
+++Analizadores
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:analizadores
+++Marcos de trabajo
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:marcos de trabajo
+++Paquetes
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:paquetes
+++PublishProfiles
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\
+++launchSettings.json
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\launchsettings.json
+++AnswerComparerDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\answercomparerdto.cs.meta
+++AnswerDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\answerdto.cs.meta
+++DataApplication.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\dataapplication.cs.meta
+++MatchResultDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\matchresultdto.cs.meta
+++PlayTurnDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\playturndto.cs.meta
+++RoundResultDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\roundresultdto.cs.meta
+++StartTurnDTO.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\dtos\startturndto.cs.meta
+++GoldCoinSetter.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\goldcoinsetter.cs
+++Inventory.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\inventory.cs
+++Item.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\item.cs
+++IWalletsRepository.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\iwalletsrepository.cs
+++Wallet.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\economy\wallet.cs
+++CategoryAndLetterGeneratorTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\categoryandlettergeneratortest.cs
+++CategoryTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\categorytest.cs
+++Entity.Tests.asmdef
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\entity.tests.asmdef
+++MatchTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\matchtest.cs
+++PlayerTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\playertest.cs
+++RoundTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\roundtest.cs
+++TurnTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\turntest.cs
+++Answer.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\answer.cs.meta
+++Category.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\category.cs.meta
+++CategoryAndLetterGenerator.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\categoryandlettergenerator.cs.meta
+++Entity.asmdef.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\entity.asmdef.meta
+++Match.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\match.cs.meta
+++Player.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\player.cs.meta
+++Round.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\round.cs.meta
+++Turn.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\turn.cs.meta
+++CheckTurnToPlayTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\checkturntoplaytest.cs
+++CreateMatchTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\creatematchtest.cs
+++EndMatchTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endmatchtest.cs
+++EndRoundTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endroundtest.cs
+++EndTurnTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endturntest.cs
+++FindNewRivalForPlayerTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\findnewrivalforplayertest.cs
+++GetLoginTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\getlogintest.cs
+++GetMatchesToPlayTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\getmatchestoplaytest.cs
+++GetMatchHistoryTest.cs
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\getmatchhistorytest.cs
+++UseCases.Test.asmdef
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\usecases.test.asmdef
+++CreateMatch.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\creatematch.cs.meta
+++EndMatch.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endmatch.cs.meta
+++EndRound.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endround.cs.meta
+++EndTurn.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\endturn.cs.meta
+++GetMatchesToPlay.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\getmatchestoplay.cs.meta
+++StartTurn.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\startturn.cs.meta
+++UseCase.asmdef.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\usecase.asmdef.meta
+++appsettings.Development.json
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0-rc.2.21480.10\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0-rc.2.21480.10\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\8.0.0-preview.3.23174.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\8.0.0-preview.3.23174.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\program files\dotnet\sdk\6.0.100-rc.2.21505.57\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:c:\users\user\.nuget\packages\system.text.json\8.0.0-preview.3.23174.8\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (8.0.0-preview.3.23174.2)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1575
+++Microsoft.EntityFrameworkCore.Design (8.0.0-preview.3.23174.2)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1577
+++Microsoft.EntityFrameworkCore.Tools (8.0.0-preview.3.23174.2)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1581
+++Microsoft.NET.Test.Sdk (17.6.0)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1576
+++MySql.EntityFrameworkCore (7.0.2)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1580
+++NSubstitute (5.0.0)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1574
+++NUnit (3.13.3)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1579
+++Swashbuckle.AspNetCore (6.2.3)
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:>1578
+++danieldev-001-site1 - FTP.pubxml
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\danieldev-001-site1 - ftp.pubxml
+++danieldev-001-site1 - FTP1.pubxml
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\danieldev-001-site1 - ftp1.pubxml
+++danieldev-001-site1 - Web Deploy.pubxml
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\danieldev-001-site1 - web deploy.pubxml
+++danieldev-001-site1 - Web Deploy1.pubxml
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\danieldev-001-site1 - web deploy1.pubxml
+++danieldiaz00-001-site1 - FTP1.pubxml
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\properties\publishprofiles\danieldiaz00-001-site1 - ftp1.pubxml
+++CategoryAndLetterGeneratorTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\categoryandlettergeneratortest.cs.meta
+++CategoryTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\categorytest.cs.meta
+++Entity.Tests.asmdef.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\entity.tests.asmdef.meta
+++MatchTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\matchtest.cs.meta
+++PlayerTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\playertest.cs.meta
+++RoundTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\roundtest.cs.meta
+++TurnTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\entities\tests\turntest.cs.meta
+++CreateMatchTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\creatematchtest.cs.meta
+++EndMatchTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endmatchtest.cs.meta
+++EndRoundTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endroundtest.cs.meta
+++EndTurnTest.cs.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\endturntest.cs.meta
+++UseCases.Test.asmdef.meta
+i:{9c81d024-08ee-4876-9624-04b96e79d4d4}:h:\developer\apitopictwisternet\apitopictwisterquark\usecases\tests\usecases.test.asmdef.meta
